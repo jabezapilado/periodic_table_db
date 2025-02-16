@@ -31,5 +31,3 @@ do
   echo -e "The element with atomic number $an is $name ($symbol). It's a $type, with a mass of $mass amu. $name has a melting point of $mp celsius and a boiling point of $bp celsius."
 done
 
-
-# hehehe
